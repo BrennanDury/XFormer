@@ -1,0 +1,15 @@
+n_cpus = 8
+batch_size = 1024
+n_epochs = 7
+warmup_steps = 64
+base_lr = 0.1
+eps = 1e-9
+beta1 = 0.9
+beta2 = 0.98
+smoothening = 0.1
+d_model = 16
+n_encoder_blocks = 6
+n_decoder_blocks = 6
+n_heads = 4
+p = 0.1
+n_beams = 5
